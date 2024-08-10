@@ -3,4 +3,4 @@ print("Hello World")
 
 # COMMAND ----------
 
-print("Hello World")
+# MAGIC  %pip install great-expectations azure-storage-blob
