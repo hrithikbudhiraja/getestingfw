@@ -1,5 +1,9 @@
 # Databricks notebook source
 config = {
+    'connection_string':'***********',
+    'source_container_name':'raw',
+    'target_container_name' :'silver',
+    'test_results_container':'test-output',
     "marks_report":
         {   
             'source_blob_name':'marks_report.csv',
