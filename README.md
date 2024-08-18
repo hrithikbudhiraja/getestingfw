@@ -28,10 +28,13 @@ Here, we call a the Great Expectations functionality expect_column_values_to_not
 
 ### ADF pipeline Integration with the framework
 <img width="821" alt="image" src="https://github.com/user-attachments/assets/5af8e4fc-ebf6-4ae5-8926-b5f70d95d459">
+
 Here, after the copy data activity, a databricks activity is executed which contains the testing framework
 
 ### Result Format
 <img width="1029" alt="image" src="https://github.com/user-attachments/assets/6357b7e4-5b0f-4847-a487-29d3631ccb85">
+
+The result is restructured in tabular format for clear understanding
 
 
 
